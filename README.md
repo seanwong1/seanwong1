@@ -1,4 +1,4 @@
-### Hello there, my name is [Sean Wong][website] 👋
+### [Hello there, my name is Sean Wong][website] 👋
 
 I am a software engineer based in Los Angeles, California. I enjoy learning about new technologies and building new, cool things with them!
 
