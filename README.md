@@ -25,6 +25,14 @@ I enjoy learning about new technologies and building new, cool things with them!
 
 ---
 
+## Featured Projects
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**FlyClicker**](https://gitlab.com/sean_wong/flyclicker) | Python script that detects on-screen motion and simulates mouse/keyboard input. | Python · OpenCV · PyAutoGUI |
+
+---
+
 ## Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
