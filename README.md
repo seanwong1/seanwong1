@@ -1,7 +1,6 @@
 ### [Hello there, my name is Sean Wong][website] 👋
 
-I am a software engineer based in Los Angeles, CA.
-I enjoy learning about new technologies and building new, cool things with them!
+I’m a Los Angeles–based (open to relocating) software engineer with a B.S. in Human Biology from UC San Diego and two years in medical school who pivoted to code. After automating research workflows with FlyClicker in Python, I deepened my full-stack skills at HackReactor’s bootcamp—building CupQuest’s social features with React, Express, and Socket.io. Today, I’m mastering Swift/UIKit through RunQuest, driven by a passion for clean, efficient code and a growth mindset.
 
 ---
 
