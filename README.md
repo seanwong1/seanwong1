@@ -30,6 +30,7 @@ I’m a Los Angeles–based (open to relocating) software engineer with a B.S. i
 | --- | --- | --- |
 | [**FlyClicker**](https://gitlab.com/sean_wong/flyclicker) | Python script that detects on-screen motion and simulates mouse/keyboard input. | Python · OpenCV · PyAutoGUI |
 | [**CupQuest**](https://github.com/seanwong1/cup-quest) | Mobile-focused application for coffee/tea enthusiasts. | React.js · Express.js · MongoDB |
+| [**Q&A Microservice API**](https://github.com/seanwong1/qa-microservice/) | Powers the Q&A portion of an e-commerce site | Node.js · Express.js · PostgreSQL |
 
 ---
 
