@@ -46,4 +46,4 @@ I’m a Los Angeles–based (open to relocating) software engineer with a B.S. i
 [linkedin]: https://www.linkedin.com/in/sean-wong1/
 [gitlab]: https://gitlab.com/sean_wong
 [github]: https://github.com/seanwong1
-[email]: mailto:sean.wong@example.com
+[email]: mailto:sean.uuong@gmail.com
