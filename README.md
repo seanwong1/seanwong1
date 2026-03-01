@@ -3,7 +3,7 @@
 los angeles–based software engineer (open to relocating).  
 human biology (ucsd) → med school → code.
 
-i build practical, clean software:
+i develop software:
 - **swift / uikit**: runquest (ios)
 - **react / express**: cupquest (social features)
 - **python**: flyclicker (workflow automation)
