@@ -15,8 +15,8 @@ i develop software:
 ### projects
 - **[flyclicker](https://gitlab.com/sean_wong/flyclicker)** — motion detection + automated input (python/opencv)
 - **[cupquest](https://sean_wong.gitlab.io/cup-quest/)** — coffee/tea discovery + social (react/express)
-- **[q&a microservice api](https://github.com/seanwong1/qa-microservice/)** — e-commerce q&a backend (node/express/postgres)
-- **[atelier frontend](https://github.com/seanwong1/atelier-ecommerce-frontend)** — e-commerce ui (react)
+- **[q&a microservice api](https://gitlab.com/sean_wong/qa-microservice)** — e-commerce q&a backend (node/express/postgres)
+- **[atelier frontend](https://sean_wong.gitlab.io/atelier-ecommerce-frontend/)** — e-commerce ui (react)
 
 ---
 
